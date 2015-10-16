@@ -1,0 +1,29 @@
+ h1{ 
+      color:red; 
+      font-size:20; 
+      font-weight:500; 
+      font-family:helvetica;
+   }
+  h2{
+       color:black;
+       font-width:16px;
+   }
+  p{
+       color:green;
+   }
+  img{
+       border-color:orange; 
+       border-width:5px; 
+       border-style:double;
+   }
+  .fuente{
+      font-family:comic;
+      text-align: center; 
+      }
+  p a{
+       color: #AAAAAA;
+       font-size:14px;
+      }
+  *{
+      font-family: arial;
+    }
